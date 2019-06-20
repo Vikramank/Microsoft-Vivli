@@ -1,4 +1,4 @@
 # Microsoft-Vivli
-This the repository for Microsoft-Vivli challenge
-Team name: Ayu
-Team member(s):1) K. Vikraman
+This the repository for Microsoft-Vivli challenge <br />
+Team name: Ayu <br />
+Team member(s):<br /> 1) K. Vikraman (mail@vikramank.com)
